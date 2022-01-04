@@ -6,3 +6,6 @@ Load a model from historical data of patients, and their respond to different me
 
 # Logistic Regression
 Create a model with telecommunications data to predict when its customers will leave for a competitor, so that you can take some action to retain the customer
+
+# Support Vector Machines (SVM)
+build and train a model using human cell records, to classify cells to whether the samples are benign or malignant
